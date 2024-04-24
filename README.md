@@ -84,5 +84,5 @@ endmodule
 
 ![WhatsApp Image 2024-03-22 at 14 02 50_d937775f](https://github.com/vijayr21/HALF_ADDER_SUBTRACTOR/assets/149347607/fd3f2296-dbd6-4db3-be61-b4f94fb5c21e)
 
-**Result:**
+**Result:** Implementation-of-Half-Adder-and-Half Subtractor-circuit is excuted sucessfully.
 
